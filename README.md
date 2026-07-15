@@ -15,7 +15,8 @@ Available for both **iTerm2** and **VS Code**. Found some variants but not quite
 | `#F5F7EA` | `#354029` | `#4E8C2E` |
 
 ### iterm2
-<img width="600" height="400" alt="iTerm2-ss" src="https://github.com/user-attachments/assets/653e8190-dfb2-4d28-97ae-d4fc9afd9e18" />
+<img width="600" height="400" alt="iTerm2-ss" src="https://github.com/user-attachments/assets/0287b413-a49b-46f4-b585-9f992bbe344a" />
+
 
 ### VScode
 <img width="500" height="400" alt="VS-code-ss" src="https://github.com/user-attachments/assets/8e45713b-5250-47aa-bdad-adfc07bd3807" />
