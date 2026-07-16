@@ -1,8 +1,8 @@
 {
   "name": "khoa-matcha-theme",
   "displayName": "khoa-matcha-theme",
-  "description": "My light matcha theme for VScode",
-  "version": "0.0.1",
+  "description": "My matcha theme for VScode",
+  "version": "0.0.2",
   "publisher": "lbkhoa27",
   "engines": {
     "vscode": "^1.125.0"
@@ -13,9 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "matcha-latte",
+        "label": "Matcha Latte",
         "uiTheme": "vs",
         "path": "./themes/matcha-latte-color-theme.json"
+      },
+      {
+        "label": "Matcha Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matcha-latte-dark-color-theme.json"
       }
     ]
   }
