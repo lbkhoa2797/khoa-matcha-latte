@@ -20,7 +20,7 @@
       {
         "label": "Matcha Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/matcha-latte-dark-color-theme.json"
+        "path": "./themes/matcha-dark-color-theme.json"
       }
     ]
   }
