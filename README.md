@@ -26,7 +26,7 @@ Available for both **iTerm2** and **VS Code**. Found some variants but not quite
 ```
 .
 ├── iterm2-files/
-│   └── matcha-zen.itermcolors      # iTerm2 color preset
+│   └── matcha-latte.itermcolors      # iTerm2 color preset
 └── vscode-files/
     ├── themes/
     │   └── matcha-latte-color-theme.json
@@ -38,7 +38,7 @@ Available for both **iTerm2** and **VS Code**. Found some variants but not quite
 
 ## Installing the iTerm2 theme
 
-1. Download [`matcha-zen.itermcolors`](iterm2-files/matcha-zen.itermcolors)
+1. Download [`matcha-latte.itermcolors`](iterm2-files/matcha-latte.itermcolors)
 2. Open **iTerm2** → **Settings** → **Profiles** → **Colors** tab
 3. Click **Color Presets…** (bottom right) → **Import…**
 4. Select `matcha-zen.itermcolors`
