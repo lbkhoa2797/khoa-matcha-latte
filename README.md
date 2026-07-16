@@ -31,7 +31,7 @@ Available for both **iTerm2** and **VS Code**. Found some variants but not quite
     ├── themes/
     │   └── matcha-latte-color-theme.json
     ├── package.json
-    ├── khoa-matcha-theme-0.0.1.vsix  # pre-packaged, ready to install
+    ├── khoa-matcha-theme-0.0.2.vsix  # pre-packaged, ready to install
     ├── CHANGELOG.md
     └── vsc-extension-quickstart.md
 ```
@@ -48,10 +48,10 @@ Available for both **iTerm2** and **VS Code**. Found some variants but not quite
 
 ### Option A — Install the packaged `.vsix` directly (fastest)
 
-1. Download [`khoa-matcha-theme-0.0.1.vsix`](vscode-files/khoa-matcha-theme-0.0.1.vsix)
+1. Download [`khoa-matcha-theme-0.0.2.vsix`](vscode-files/khoa-matcha-theme-0.0.2.vsix)
 2. Install it:
    ```bash
-   code --install-extension khoa-matcha-theme-0.0.1.vsix
+   code --install-extension khoa-matcha-theme-0.0.2.vsix
    ```
 3. In VS Code: `Cmd/Ctrl+K Cmd/Ctrl+T` → select **Matcha Latte**
 
@@ -62,7 +62,7 @@ git clone https://github.com/lbkhoa2797/khoa-matcha-latte.git
 cd khoa-matcha-latte/vscode-files
 npm install -g @vscode/vsce
 vsce package
-code --install-extension khoa-matcha-theme-0.0.1.vsix
+code --install-extension khoa-matcha-theme-0.0.2.vsix
 ```
 
 ### Option C — Symlink for live editing (no repackaging needed)
